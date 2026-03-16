@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "FURFURINAGAR-SWS.aternos.me",
+    "port": 34359,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
